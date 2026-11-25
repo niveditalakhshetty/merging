@@ -1,2 +1,2 @@
 print("git in merge")
-print("f1.py in master branch")
+print("f2.py in master branch")
